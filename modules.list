@@ -447,6 +447,7 @@ kernel/drivers/xen/xen-gntalloc.ko
 kernel/drivers/xen/xen-gntdev.ko
 kernel/drivers/xen/xen-pciback/xen-pciback.ko
 kernel/drivers/xen/xen-privcmd.ko
+kernel/drivers/block/aoe/aoe.ko
 kernel/fs/9p/9p.ko
 kernel/fs/autofs4/autofs4.ko
 kernel/fs/binfmt_misc.ko
