@@ -33,6 +33,7 @@ rtl_nic/rtl8402-1.fw
 rtl_nic/rtl8168f-1.fw
 rtl_nic/rtl8168e-3.fw
 rtl_nic/rtl8168g-3.fw
+rtl_nic/rtl8168g-2.fw
 e100/d101s_ucode.bin
 e100/d101m_ucode.bin
 e100/d102e_ucode.bin
